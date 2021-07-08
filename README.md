@@ -27,7 +27,7 @@
 - 😄 Pronouns: He/His.
 
 
-[![Linkedin: Amir Khan](https://img.shields.io/badge/-AK-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aymen-smati-91b6a2195)](https://www.linkedin.com/in/amir-khan-119542b3)
+[![Linkedin: Amir Khan](https://img.shields.io/badge/-AK-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aymen-smati-91b6a2195)](https://www.linkedin.com/in/aymen-smati-91b6a2195)
 
 
 
