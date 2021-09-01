@@ -27,11 +27,10 @@
 - 😄 Pronouns: He/His.
 
 
-[![Linkedin: Ayman Smati](https://img.shields.io/badge/-AK-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aymen-smati-91b6a2195)](https://www.linkedin.com/in/aymen-smati-91b6a2195)
+[![Linkedin: Ayman Smati](https://img.shields.io/badge/-AS-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aymen-smati-91b6a2195)](https://www.linkedin.com/in/aymen-smati-91b6a2195)
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aymensp)
 
 ![enter image description here](https://github-readme-stats.vercel.app/api?username=aymensp&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
