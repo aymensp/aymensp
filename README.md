@@ -23,7 +23,7 @@
 - 🔭 I’m currently working at Pk Data Software as a FUll Stack Developer also I do open source projects.
 - 🌱 I’m currently learning React, Redux ,Aws...
 - 📫 How to reach me: LinkedIn : [@AymenSmati](https://www.linkedin.com/in/aymen-smati-91b6a2195)
-.
+- [@Portfolio](https://ayman-smati.netlify.app)
 - 😄 Pronouns: He/His.
 
 
